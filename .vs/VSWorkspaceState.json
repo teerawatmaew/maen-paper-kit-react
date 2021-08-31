@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Navbars",
+    "\\src\\views",
+    "\\src\\views\\examples",
+    "\\src\\views\\index-sections",
+    "\\src\\views\\main",
+    "\\src\\views\\student",
+    "\\src\\views\\student\\lesson"
+  ],
+  "SelectedNode": "\\src\\views\\student\\lesson\\firstwork",
+  "PreviewInSolutionExplorer": false
+}
